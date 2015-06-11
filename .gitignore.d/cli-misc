@@ -1,0 +1,5 @@
+*
+!/.gitignore.d
+!/.gitignore.d/cli-misc
+!/.ledgerrc
+!/.tmux.conf
